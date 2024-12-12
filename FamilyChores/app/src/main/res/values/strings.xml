@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">FamilyChores</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="name_1">mom</string>
+    <string name="name_2">dad</string>
+    <string name="name_3">daughter</string>
+    <string name="addButton">Add</string>
+    <string name="diagramButton">Show Diagram</string>
+    <string name="task">Nothing</string>
+    <string name="task_name">Task name:</string>
+    <string name="button_cancel">Cancel</string>
+    <string name="button_ok">Ok</string>
+    <string name="new_Todo_item">Add new todo:</string>
+    <string name="user_name">Enter your name:</string>
+    <string name="category">Avatar</string>
+    <string-array name="category_items">
+        <item>Woman</item>
+        <item>Man</item>
+        <item>Boy</item>
+        <item>Girl</item>
+        <item>dog</item>
+        <item>other</item>
+        <item>alien</item>
+        <item>pingvin</item>
+    </string-array>
+</resources>
